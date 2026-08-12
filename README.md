@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+![RecBole](https://img.shields.io/badge/RecBole-Recommender-orange)
+
 # Recommender System Challenge
 
 A hybrid recommendation system developed for the Leiden University Recommender System Challenge.
